@@ -1,0 +1,14 @@
+C:\Users\Engr Sodeinde\documents\REDACTR\bin\Debug\net7.0\REDACTR.exe
+C:\Users\Engr Sodeinde\documents\REDACTR\bin\Debug\net7.0\REDACTR.deps.json
+C:\Users\Engr Sodeinde\documents\REDACTR\bin\Debug\net7.0\REDACTR.runtimeconfig.json
+C:\Users\Engr Sodeinde\documents\REDACTR\bin\Debug\net7.0\REDACTR.dll
+C:\Users\Engr Sodeinde\documents\REDACTR\bin\Debug\net7.0\REDACTR.pdb
+C:\Users\Engr Sodeinde\documents\REDACTR\obj\Debug\net7.0\REDACTR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engr Sodeinde\documents\REDACTR\obj\Debug\net7.0\REDACTR.AssemblyInfoInputs.cache
+C:\Users\Engr Sodeinde\documents\REDACTR\obj\Debug\net7.0\REDACTR.AssemblyInfo.cs
+C:\Users\Engr Sodeinde\documents\REDACTR\obj\Debug\net7.0\REDACTR.csproj.CoreCompileInputs.cache
+C:\Users\Engr Sodeinde\documents\REDACTR\obj\Debug\net7.0\REDACTR.dll
+C:\Users\Engr Sodeinde\documents\REDACTR\obj\Debug\net7.0\refint\REDACTR.dll
+C:\Users\Engr Sodeinde\documents\REDACTR\obj\Debug\net7.0\REDACTR.pdb
+C:\Users\Engr Sodeinde\documents\REDACTR\obj\Debug\net7.0\REDACTR.genruntimeconfig.cache
+C:\Users\Engr Sodeinde\documents\REDACTR\obj\Debug\net7.0\ref\REDACTR.dll
